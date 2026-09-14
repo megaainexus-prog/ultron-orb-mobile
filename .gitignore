@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+.expo-shared/
+*.apk
+*.jks
+.env
+.DS_Store
+npm-debug.log
